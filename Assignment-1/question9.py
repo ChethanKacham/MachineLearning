@@ -11,7 +11,7 @@ for i in range(0, N):
     weights_in_lbs.append(weight_lb)
 print("{} students weights in lbs {}".format(N, weights_in_lbs))
 # Converting lbs to kgs
-weights_in_kgs = [i * 0.453592 for i in weights_in_lbs]
+weights_in_kgs = ["{:.2f}".format(i * 0.453592) for i in weights_in_lbs]
 '''
 weights_in_kgs = []
 for i in weights_in_lbs:
