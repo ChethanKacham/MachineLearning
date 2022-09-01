@@ -201,6 +201,7 @@ print("The area of circle with radius {} is {} meters square".format(radius, are
 
 
 # Question - 9
+
 print("Question - 9")
 # Taking N(number of students) input from user
 N = int(input("Enter the number of students: "))
