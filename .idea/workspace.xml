@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0210c5e-8ade-44cd-bc48-93c4d4008d32" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assignment-1/question10/Assignment - 1 (Question - 10) ML_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment-1/question10/Assignment - 1 (Question - 10) ML_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment-1/question10/Assignment - 1 (Question - 10) ML_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment-1/~$signment-1.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment-1/Assignment-1.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment-1/audio1001075903.m4a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment-1/video1001075903.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-1/Assignment-1 Word docs/Assignment-1 with Medialink.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-1/Assignment-1 Word docs/Assignment-1 with WMP.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-1/Assignment-1 Word docs/Assignment-1(withtwovideos).docx" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-1/Videos &amp; Word Documents of Assignment - 1/Assignment-1.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-1/Assignment-1.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-1/Videos &amp; Word Documents of Assignment - 1/Assignment-1(Part 1 - Questions 1 to 9).mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-1/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,23 +32,27 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2E6d2APyJTH4jWS7DrMtsJUtwe4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/saimanithkomuravelli/Documents/GitHub/MachineLearning&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/saimanithkomuravelli/Documents/GitHub/MachineLearning"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Assignment-1/Videos &amp; Word Documents of Assignment - 1" />
       <recent name="$PROJECT_DIR$/Assignment-1" />
     </key>
   </component>
@@ -67,5 +77,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
