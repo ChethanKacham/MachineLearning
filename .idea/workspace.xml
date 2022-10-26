@@ -1,27 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e11bc9e1-1781-4fa3-98c0-ee5c31530eb7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment2/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment2/ScreenshotsofAssignment2/Question1_code.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment2/ScreenshotsofAssignment2/Question1_output.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment2/ScreenshotsofAssignment2/Question2_code(1).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment2/ScreenshotsofAssignment2/Question2_code(2).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment2/ScreenshotsofAssignment2/Question2_output(1).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment2/ScreenshotsofAssignment2/Question2_output(2).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment2/ScreenshotsofAssignment2/Question2_output(3).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment2/ScreenshotsofAssignment2/Question2_output(4).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment2/ScreenshotsofAssignment2/Question2_output(5).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment2/ScreenshotsofAssignment2/Question3_code.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment2/ScreenshotsofAssignment2/Question3_output.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment2/Videos &amp; Word Documents of Assignment - 2/Assignment-2.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment2/Videos &amp; Word Documents of Assignment - 2/Assignment-2.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment2/data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment2/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment2/question1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment2/question2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment2/question3.py" beforeDir="false" />
+    <list default="true" id="e11bc9e1-1781-4fa3-98c0-ee5c31530eb7" name="Changes" comment="Added Assignment-3 folder">
+      <change afterPath="$PROJECT_DIR$/Assignment-3/screen controling doc.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/img_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/img_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/img_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/img_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/img_5.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,20 +40,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/cheth/OneDrive/Documents/GitHub/MachineLearning/Assignment-3",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/cheth/OneDrive/Documents/GitHub/MachineLearning/Assignment-3&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "Python"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\cheth\OneDrive\Documents\GitHub\MachineLearning\Assignment-3" />
@@ -81,6 +68,14 @@
       <option name="presentableId" value="Default" />
       <updated>1662927086508</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added Assignment-3 folder">
+      <created>1666755918400</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666755918400</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,5 +91,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Added Assignment-3 folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Assignment-3 folder" />
   </component>
 </project>
