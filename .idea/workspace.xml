@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e11bc9e1-1781-4fa3-98c0-ee5c31530eb7" name="Changes" comment="Added Assignment-3 folder">
-      <change afterPath="$PROJECT_DIR$/Assignment-4/K-Mean_Dataset.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-4/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-4/Salary_Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-4/ScreenshotsofAssignment4/question1 code.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-4/ScreenshotsofAssignment4/question1 ouput-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-4/ScreenshotsofAssignment4/question1 ouput-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-4/ScreenshotsofAssignment4/question1 ouput-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-4/ScreenshotsofAssignment4/question2 code-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-4/ScreenshotsofAssignment4/question2 code-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-4/ScreenshotsofAssignment4/question2 ouput-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-4/ScreenshotsofAssignment4/question2 ouput-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-4/ScreenshotsofAssignment4/question3 code-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-4/ScreenshotsofAssignment4/question3 code-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-4/ScreenshotsofAssignment4/question3 code-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-4/ScreenshotsofAssignment4/question3 ouput.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-4/Videos &amp; Word Documents of Assignment - 4/Assignment-4.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-4/Videos &amp; Word Documents of Assignment - 4/Assignment-4.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-4/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-4/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-4/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-4/question1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-4/question2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-4/question3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment-3/question1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-3/question1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment-3/question2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-3/question2.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="e11bc9e1-1781-4fa3-98c0-ee5c31530eb7" name="Changes" comment="Added Assignment-3 folder" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
