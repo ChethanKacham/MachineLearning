@@ -2,23 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e11bc9e1-1781-4fa3-98c0-ee5c31530eb7" name="Changes" comment="Added Assignment-3 folder">
-      <change afterPath="$PROJECT_DIR$/Assignment-5/CC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-5/Iris.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-5/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-5/ScreenshotsofAssignment5/Code1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-5/ScreenshotsofAssignment5/Code2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-5/ScreenshotsofAssignment5/Code3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-5/ScreenshotsofAssignment5/Code4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-5/ScreenshotsofAssignment5/Code5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-5/ScreenshotsofAssignment5/Output1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-5/ScreenshotsofAssignment5/Output2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-5/ScreenshotsofAssignment5/Output3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-5/ScreenshotsofAssignment5/Output4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-5/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-5/pd_speech_features.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-5/question1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-5/question2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-5/question3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment-6/.ipynb_checkpoints/question2-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment-6/CC GENERAL.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment-6/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment-6/Screenshots of question 1 &amp; question 2/question1/AverageLink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment-6/Screenshots of question 1 &amp; question 2/question1/CompleteLink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment-6/Screenshots of question 1 &amp; question 2/question1/SingleLink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment-6/Screenshots of question 1 &amp; question 2/question2/question2_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment-6/Screenshots of question 1 &amp; question 2/question2/question2_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment-6/Screenshots of question 1 &amp; question 2/question2/question2_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment-6/Screenshots of question 1 &amp; question 2/question2/question2_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment-6/Screenshots of question 1 &amp; question 2/question2/question2_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment-6/Screenshots of question 1 &amp; question 2/question2/question2_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment-6/Screenshots of question 1 &amp; question 2/question2/question2_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment-6/Screenshots of question 1 &amp; question 2/question2/question2_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment-6/pycharm files/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment-6/question1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment-6/question2.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +56,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/cheth/OneDrive/Documents/GitHub/MachineLearning/Assignment-5",
+    "last_opened_file_path": "C:/Users/cheth/OneDrive/Documents/GitHub/MachineLearning/Assignment-6",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   },
   "keyToStringList": {
@@ -67,11 +67,13 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cheth\OneDrive\Documents\GitHub\MachineLearning\Assignment-6" />
       <recent name="C:\Users\cheth\OneDrive\Documents\GitHub\MachineLearning\Assignment-5" />
       <recent name="C:\Users\cheth\OneDrive\Documents\GitHub\MachineLearning\Assignment-4" />
       <recent name="C:\Users\cheth\OneDrive\Documents\GitHub\MachineLearning\Assignment-3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cheth\OneDrive\Documents\GitHub\MachineLearning\Assignment-6\pycharm files" />
       <recent name="C:\Users\cheth\OneDrive\Documents\GitHub\MachineLearning" />
     </key>
   </component>
