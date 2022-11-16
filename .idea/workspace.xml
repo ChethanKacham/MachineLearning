@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e11bc9e1-1781-4fa3-98c0-ee5c31530eb7" name="Changes" comment="Added Assignment-3 folder">
-      <change afterPath="$PROJECT_DIR$/Assignment-6/.ipynb_checkpoints/question2-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-6/CC GENERAL.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-6/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-6/Screenshots of question 1 &amp; question 2/question1/AverageLink.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-6/Screenshots of question 1 &amp; question 2/question1/CompleteLink.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-6/Screenshots of question 1 &amp; question 2/question1/SingleLink.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-6/Screenshots of question 1 &amp; question 2/question2/question2_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-6/Screenshots of question 1 &amp; question 2/question2/question2_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-6/Screenshots of question 1 &amp; question 2/question2/question2_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-6/Screenshots of question 1 &amp; question 2/question2/question2_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-6/Screenshots of question 1 &amp; question 2/question2/question2_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-6/Screenshots of question 1 &amp; question 2/question2/question2_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-6/Screenshots of question 1 &amp; question 2/question2/question2_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-6/Screenshots of question 1 &amp; question 2/question2/question2_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-6/pycharm files/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-6/question1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment-6/question2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e11bc9e1-1781-4fa3-98c0-ee5c31530eb7" name="Changes" comment="Added Assignment-3 folder" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
