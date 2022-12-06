@@ -27,7 +27,7 @@ print('CC dataset finalDf:')
 print(finalDf)
 X = finalDf.drop('TENURE', axis=1).values
 y = finalDf['TENURE'].values
-X_train, X_test, y_train, y_test = train_test_split(X,y, test_size=0.3, random_state=0)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=0)
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 logisticRegr = LogisticRegression()

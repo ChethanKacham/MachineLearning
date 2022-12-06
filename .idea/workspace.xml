@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e11bc9e1-1781-4fa3-98c0-ee5c31530eb7" name="Changes" comment="Added Assignment-3 folder" />
+    <list default="true" id="e11bc9e1-1781-4fa3-98c0-ee5c31530eb7" name="Changes" comment="Added Assignment-3 folder">
+      <change afterPath="$PROJECT_DIR$/Project/Stock Prediction With Machine Learning.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-3/question1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-3/question1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment-5/question1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment-5/question1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practicecodes/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +44,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/cheth/OneDrive/Documents/GitHub/MachineLearning/Assignment-6",
+    "last_opened_file_path": "C:/Users/cheth/OneDrive/Documents/GitHub/MachineLearning",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   },
   "keyToStringList": {
@@ -48,6 +55,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cheth\OneDrive\Documents\GitHub\MachineLearning" />
       <recent name="C:\Users\cheth\OneDrive\Documents\GitHub\MachineLearning\Assignment-6" />
       <recent name="C:\Users\cheth\OneDrive\Documents\GitHub\MachineLearning\Assignment-5" />
       <recent name="C:\Users\cheth\OneDrive\Documents\GitHub\MachineLearning\Assignment-4" />
